@@ -1,6 +1,6 @@
-# SMVDU Grocery Application
+# SMVDU GrocerHub
 
-The **SMVDU Grocery Application** is a full-stack e-commerce platform built using the **MERN** stack (MongoDB, Express, React, Node.js). The application is designed to provide a seamless online grocery shopping experience for students, filling the gap left by the lack of on-campus grocery delivery services like Zepto and Blinkit.
+The **SMVDU Grocer Hub** is a full-stack e-commerce platform built using the **MERN** stack (MongoDB, Express, React, Node.js). The application is designed to provide a seamless online grocery shopping experience for students, filling the gap left by the lack of on-campus grocery delivery services like Zepto and Blinkit.
 
 ## Features
 
